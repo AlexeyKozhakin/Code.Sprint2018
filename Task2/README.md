@@ -34,7 +34,7 @@ To ignore case sensitivity of the user’s answer (char) of the question display
 ## Example of working program:
 
 ### Example 1:
-
+```
 3+7=?
 11
 Which element is used as fuel in a nuclear power stations?
@@ -45,7 +45,7 @@ C
 Enter PIN:
 6502
 Access granted
- 
+``` 
 ### Example 2:
 
 5+3=?
