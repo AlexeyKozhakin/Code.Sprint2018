@@ -47,7 +47,7 @@ Enter PIN:
 Access granted
 ``` 
 ### Example 2:
-
+```
 5+3=?
 8
 Which country uses the most nuclear power?
@@ -58,3 +58,4 @@ C
 Enter PIN:
 6501
 Access denied
+```
